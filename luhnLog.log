@@ -1,0 +1,21 @@
+Script started on Wed 07 Sep 2016 10:21:04 AM EDT
+ACC.mitchelld19@salem:~/csci208/programmingAssignments/luhnChecksum$ 654fg++ luhnCheccksum.cpp [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ca.out[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+Please enter a number: 478956
+478956 is not valid.
+Your number length is even.
+Total Sum: 34
+Mod10: 4
+Check Digit: 6
+ACC.mitchelld19@salem:~/csci208/programmingAssignments/luhnChecksum$ a.out
+Please enter a number: sd56
+You entered a letter, Please try again!
+ACC.mitchelld19@salem:~/csci208/programmingAssignments/luhnChecksum$ a.out654f[Ka.out
+Please enter a number: fssa
+You entered a letter, Please try again!
+ACC.mitchelld19@salem:~/csci208/programmingAssignments/luhnChecksum$ a.out654f[Ka.out
+Please enter a number: 45f6
+You entered a letter, Please try again!
+ACC.mitchelld19@salem:~/csci208/programmingAssignments/luhnChecksum$ exit
+
+Script done on Wed 07 Sep 2016 10:21:28 AM EDT

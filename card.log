@@ -1,0 +1,13 @@
+Script started on Mon 03 Oct 2016 12:31:45 PM EDT
+ACC.mitchelld19@salem:~/csci208/programmingAssignments/cardClass$ make clean
+rm card.o main.o
+ACC.mitchelld19@salem:~/csci208/programmingAssignments/cardClass$ ls
+[0m[01;32ma.out[0m  card.cpp  card.h  card.log  [01;32mcardMain[0m  main.cpp  makefile  [01;35mtestScreen.png[0m
+ACC.mitchelld19@salem:~/csci208/programmingAssignments/cardClass$ make
+c++ -c card.cpp
+c++ -c main.cpp
+c++ -o cardMain card.o main.o
+ACC.mitchelld19@salem:~/csci208/programmingAssignments/cardClass$ ^C
+ACC.mitchelld19@salem:~/csci208/programmingAssignments/cardClass$ exit
+
+Script done on Mon 03 Oct 2016 12:32:28 PM EDT
